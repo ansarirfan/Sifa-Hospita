@@ -1,5 +1,5 @@
 import validator from 'validator'
-const bcrypt = require('bcryptjs');
+import bcrypt from 'bcryptjs';
 import userModel from '../models/userModels.js'
 import jwt from 'jsonwebtoken'
 import {v2 as cloudinary} from 'cloudinary'
