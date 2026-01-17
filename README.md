@@ -4,9 +4,9 @@ sifa-hospital/
 └── backend/      # Node.js API server
 
 🌐 Live Links
-Frontend:[ https://social-gup-sup-app-1-frontend.onrender.com](https://sifa-hospita-frontend.onrender.com/)
+Frontend:https://sifa-hospita-frontend.onrender.com/
 
-Admin: https://sifa-hospita-admin.onrender.com/doctor-profile
+Admin: https://sifa-hospita-admin.onrender.com/doctor-profile/
 
 🚀 Features
 Patient appointment booking
